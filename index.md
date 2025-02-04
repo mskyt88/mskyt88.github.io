@@ -8,9 +8,9 @@ I am an assistant professor at SNU Business School.
 
 ## Academic Appointments
 
-**SNU Business School, Seoul National University**, Seoul, South Korea (Feb 2025 – Present)
+**Seoul National University**, Seoul, South Korea (Feb 2025 – Present)
 
-- *Assistant Professor of Operations Management*
+- *Assistant Professor of Operations Management, College of Business School*
 
 **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, South Korea (Sep 2021 – Jan 2025)
 
@@ -19,13 +19,13 @@ I am an assistant professor at SNU Business School.
 
 ## Education
 
-**Columbia University, New York, U.S.** (Sep 2015 – June 2021)
+**Columbia University**, New York, U.S. (Sep 2015 – June 2021)
 
 - Ph.D., Decision, Risk, and Operations, Graduate School of Business
   - Advisors: Ciamac C. Moallemi, Costis Maglaras
   - Thesis title: Modern Dynamic Programming Approaches to Sequential Decision Making
 
-**Seoul National University, Seoul, South Korea** (Feb 2014)
+**Seoul National University**, Seoul, South Korea (Feb 2014)
 
 - B.S., Electrical and Computer Engineering
 
