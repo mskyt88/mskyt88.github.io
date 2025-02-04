@@ -4,42 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am an assistant professor at SNU Business School.
+I am an Assistant Professor at Seoul National University (SNU) Business School, specializing in **sequential decision-making and learning algorithms** for modern business applications. My research particularly focuses on dynamic programming approaches and Bayesian perspectives, with an emphasis on their practical and theoretical implications.
 
-## Academic Appointments
-
-**Seoul National University**, Seoul, South Korea (Feb 2025 – Present)
-
-- *Assistant Professor of Operations Management, College of Business School*
-
-**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, South Korea (Sep 2021 – Jan 2025)
-
-- *Assistant Professor of Industrial & Systems Engineering (ISysE)* 
+I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D. in Business from Columbia University. After completing my Ph.D., I began my academic career as an Assistant Professor in the Industrial and Systems Engineering Department at KAIST before recently joining the Operations Management group at SNU Business School. Prior to academia, I spent over 6+ years as a quant developer in the financial industry. At the intersection of engineering and business, I am passionate about designing algorithms that perform effectively in practice while uncovering the managerial insights that drive algorithmic innovations.
 
 
-## Education
-
-**Columbia University**, New York, U.S. (Sep 2015 – June 2021)
-
-- Ph.D., Decision, Risk, and Operations, Graduate School of Business
-  - Advisors: Ciamac C. Moallemi, Costis Maglaras
-  - Thesis title: Modern Dynamic Programming Approaches to Sequential Decision Making
-
-**Seoul National University**, Seoul, South Korea (Feb 2014)
-
-- B.S., Electrical and Computer Engineering
-
----
 
 ## Papers
 
-- S. Min, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." *Operations Research*, major revision. Initial version: July 2023
+- **S. Min**, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." *Operations Research*, major revision. Initial version: July 2023
   - Preliminary version: S. Min, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." *Proceedings of the 40th International Conference on Machine Learning (ICML)*, PMLR 202:24831-24849, 2023
 
-- S. Min, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." *Management Science*, published online in Articles in Advance, 2024
+- **S. Min**, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." *Management Science*, published online in Articles in Advance, 2024
   - Preliminary version: S. Min, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." In *Advances in Neural Information Processing Systems 32*, pages 3549–3558, 2019
 
-- Y. Kanoria, S. Min, P. Qian. "The Competition for Partners in Matching Markets." *Management Science*, published online in Articles in Advance, 2024
+- Y. Kanoria, **S. Min**, P. Qian. "The Competition for Partners in Matching Markets." *Management Science*, published online in Articles in Advance, 2024
   - Preliminary version: Y. Kanoria, S. Min, P. Qian. "In Which Matching Markets does the Short Side Enjoy an Advantage?" *Proceedings of the Thirty-Second Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)*, pages 1374–1386, March 2021
 
 - J. Kim, S. Min. "Risk-sensitive Policy Optimization via Predictive CVaR Policy Gradient." *Proceedings of the 41st International Conference on Machine Learning (ICML)*, PMLR 235:24354-24369, 2024
