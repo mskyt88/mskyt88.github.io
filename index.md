@@ -6,10 +6,91 @@ layout: homepage
 
 I am an assistant professor at SNU Business School.
 
-## Research Interests
+## Academic Appointments
 
-- **Sequential Learning & Decision Making**
+**SNU Business School, Seoul National University, Seoul, South Korea**
 
-{% include_relative _includes/publications.md %}
+- *Assistant Professor of Operations Management* (Feb 2025 – Present)
 
-{% include_relative _includes/services.md %}
+**Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea**
+
+- *Assistant Professor of Industrial & Systems Engineering (ISysE)* (Sep 2021 – Jan 2025)
+
+---
+
+## Education
+
+**Columbia University, New York, U.S.** (Sep 2015 – June 2021)
+
+- Ph.D., Decision, Risk, and Operations, Graduate School of Business
+  - Advisors: Ciamac C. Moallemi, Costis Maglaras
+  - Thesis title: Modern Dynamic Programming Approaches to Sequential Decision Making
+
+**Seoul National University, Seoul, South Korea** (Feb 2014)
+
+- B.S., Electrical and Computer Engineering
+
+---
+
+## Papers
+
+- S. Min, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." *Operations Research*, major revision. Initial version: July 2023
+  - Preliminary version: S. Min, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." *Proceedings of the 40th International Conference on Machine Learning (ICML)*, PMLR 202:24831-24849, 2023
+
+- S. Min, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." *Management Science*, published online in Articles in Advance, 2024
+  - Preliminary version: S. Min, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." In *Advances in Neural Information Processing Systems 32*, pages 3549–3558, 2019
+
+- Y. Kanoria, S. Min, P. Qian. "The Competition for Partners in Matching Markets." *Management Science*, published online in Articles in Advance, 2024
+  - Preliminary version: Y. Kanoria, S. Min, P. Qian. "In Which Matching Markets does the Short Side Enjoy an Advantage?" *Proceedings of the Thirty-Second Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)*, pages 1374–1386, March 2021
+
+- J. Kim, S. Min. "Risk-sensitive Policy Optimization via Predictive CVaR Policy Gradient." *Proceedings of the 41st International Conference on Machine Learning (ICML)*, PMLR 235:24354-24369, 2024
+
+- S. Min, C. Maglaras, C. C. Moallemi. "Cross-sectional Variation of Intraday Liquidity, Cross-Impact and their Effect on Portfolio Execution." *Operations Research* 70(2):830–846, March 2022
+
+- S. Min, C. Maglaras, C. C. Moallemi. "Risk-sensitive Optimal Execution via a Conditional Value-at-Risk Objective." *Management Science*, major revision. Initial version: 2022. 2021 INFORMS Section on Finance Best Student Paper Competition Finalist
+
+- S. Min, C. C. Moallemi, D. J. Russo. "Policy Gradient Optimization of Thompson Sampling Policies." Submitted to *INFORMS Journal on Computing*. Initial version: 2020
+
+---
+
+## Work Experience
+
+**J.P. Morgan, New York, U.S.** (July 2019 – Sep 2019)
+
+- Research internship, Automated Trading System
+  - Conducted research on high-frequency price impact and high-frequency execution strategy
+
+**Tachyon Trading, Seoul, South Korea** (May 2012 – Jun 2015)
+
+- Co-founder & Head of IT, High-frequency trading & market making
+  - Developed trading strategies for Kospi200 & Nikkei index futures and options
+  - Developed a low-latency trading platform including simulation/analysis tools
+
+**Yonhap Infomax, Seoul, South Korea** (Feb 2009 – Dec 2011)
+
+- Developer, Financial market data vendor & news agency
+  - Served alternative military service
+  - Developed financial data visualization/analysis tools & mobile apps
+
+---
+
+## Teaching
+
+- **Operations Research: Stochastic Modeling** (Fall 2021, Fall 2022, Fall 2023, Fall 2024)
+- **Data Science for Decision Making** (Spring 2023, Spring 2024)
+- **Basics of Artificial Intelligence** (Fall 2021, Fall 2022, Fall 2023)
+- **Data-driven Decision Making and Control** (Spring 2022)
+
+---
+
+## Honors
+
+- National Research Foundation of Korea (NRF) Research Grant (~$280,000) (2022 – 2025)
+- KAIST Settlement Funding (~$80,000) (2021)
+- J.P. Morgan Sponsored Research Gift ($150,000) (2019)
+- Columbia Business School Fellowship (2015 – 2021)
+- KFAS Undergraduate Student Scholarship ($3,600 per year) (2007 – 2014)
+- Presidential Science Scholarship ($10,000 per year) (2006 – 2014)
+- ACM Programming Contest in Korea: 3rd place (Sep 2007)
+- Korea Olympiad in Informatics: 2nd place (July 2005)
+
