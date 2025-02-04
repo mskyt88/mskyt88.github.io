@@ -8,15 +8,14 @@ I am an assistant professor at SNU Business School.
 
 ## Academic Appointments
 
-**SNU Business School, Seoul National University, Seoul, South Korea**
+**SNU Business School, Seoul National University**, Seoul, South Korea (Feb 2025 – Present)
 
-- *Assistant Professor of Operations Management* (Feb 2025 – Present)
+- *Assistant Professor of Operations Management*
 
-**Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea**
+**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, South Korea (Sep 2021 – Jan 2025)
 
-- *Assistant Professor of Industrial & Systems Engineering (ISysE)* (Sep 2021 – Jan 2025)
+- *Assistant Professor of Industrial & Systems Engineering (ISysE)* 
 
----
 
 ## Education
 
@@ -51,7 +50,6 @@ I am an assistant professor at SNU Business School.
 
 - S. Min, C. C. Moallemi, D. J. Russo. "Policy Gradient Optimization of Thompson Sampling Policies." Submitted to *INFORMS Journal on Computing*. Initial version: 2020
 
----
 
 ## Work Experience
 
@@ -72,7 +70,6 @@ I am an assistant professor at SNU Business School.
   - Served alternative military service
   - Developed financial data visualization/analysis tools & mobile apps
 
----
 
 ## Teaching
 
@@ -80,17 +77,3 @@ I am an assistant professor at SNU Business School.
 - **Data Science for Decision Making** (Spring 2023, Spring 2024)
 - **Basics of Artificial Intelligence** (Fall 2021, Fall 2022, Fall 2023)
 - **Data-driven Decision Making and Control** (Spring 2022)
-
----
-
-## Honors
-
-- National Research Foundation of Korea (NRF) Research Grant (~$280,000) (2022 – 2025)
-- KAIST Settlement Funding (~$80,000) (2021)
-- J.P. Morgan Sponsored Research Gift ($150,000) (2019)
-- Columbia Business School Fellowship (2015 – 2021)
-- KFAS Undergraduate Student Scholarship ($3,600 per year) (2007 – 2014)
-- Presidential Science Scholarship ($10,000 per year) (2006 – 2014)
-- ACM Programming Contest in Korea: 3rd place (Sep 2007)
-- Korea Olympiad in Informatics: 2nd place (July 2005)
-
