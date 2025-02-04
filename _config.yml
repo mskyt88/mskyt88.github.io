@@ -2,6 +2,8 @@
 title: Seungki Min
 position: Assistant Professor
 affiliation: SNU Business School
+affiliation_link: https://cba.snu.ac.kr/en
+affiliation_logo: ./assets/img/snub_logo.png
 email: mskyt (at) snu.ac.kr
 
 # Search Engine Optimization (SEO)
@@ -13,17 +15,17 @@ canonical:
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.co.kr/citations?user=OTH0HWEAAAAJ&hl=en
-cv_link: assets/files/SeungkiMiSen_CV.pdf
+cv_link: assets/files/SeungkiMin_CV.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/portrait.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
