@@ -32,18 +32,18 @@ I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D.
 
 ## Work Experience
 
-**J.P. Morgan, New York, U.S.** (July 2019 – Sep 2019)
+**J.P. Morgan**, New York, U.S. (July 2019 – Sep 2019)
 
 - Research internship, Automated Trading System
   - Conducted research on high-frequency price impact and high-frequency execution strategy
 
-**Tachyon Trading, Seoul, South Korea** (May 2012 – Jun 2015)
+**Tachyon Trading**, Seoul, South Korea (May 2012 – Jun 2015)
 
 - Co-founder & Head of IT, High-frequency trading & market making
   - Developed trading strategies for Kospi200 & Nikkei index futures and options
   - Developed a low-latency trading platform including simulation/analysis tools
 
-**Yonhap Infomax, Seoul, South Korea** (Feb 2009 – Dec 2011)
+**Yonhap Infomax**, Seoul, South Korea (Feb 2009 – Dec 2011)
 
 - Developer, Financial market data vendor & news agency
   - Served alternative military service
