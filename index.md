@@ -13,15 +13,15 @@ I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D.
 ## Papers
 
 - **S. Min**, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." *Operations Research*, major revision. Initial version: July 2023
-  - Preliminary version: S. Min, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." *Proceedings of the 40th International Conference on Machine Learning (ICML)*, PMLR 202:24831-24849, 2023
+  - Preliminary version: S. Min, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." Proceedings of the 40th International Conference on Machine Learning (*ICML*), PMLR 202:24831-24849, 2023
 
 - **S. Min**, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." *Management Science*, published online in Articles in Advance, 2024
-  - Preliminary version: S. Min, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." In *Advances in Neural Information Processing Systems 32*, pages 3549–3558, 2019
+  - Preliminary version: S. Min, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." In Advances in Neural Information Processing Systems 32 (*NeurIPS*), pages 3549–3558, 2019
 
 - Y. Kanoria, **S. Min**, P. Qian. "The Competition for Partners in Matching Markets." *Management Science*, published online in Articles in Advance, 2024
-  - Preliminary version: Y. Kanoria, S. Min, P. Qian. "In Which Matching Markets does the Short Side Enjoy an Advantage?" *Proceedings of the Thirty-Second Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)*, pages 1374–1386, March 2021
+  - Preliminary version: Y. Kanoria, S. Min, P. Qian. "In Which Matching Markets does the Short Side Enjoy an Advantage?" Proceedings of the Thirty-Second Annual ACM-SIAM Symposium on Discrete Algorithms (*SODA*), pages 1374–1386, March 2021
 
-- J. Kim, **S. Min**. "Risk-sensitive Policy Optimization via Predictive CVaR Policy Gradient." *Proceedings of the 41st International Conference on Machine Learning (ICML)*, PMLR 235:24354-24369, 2024
+- J. Kim, **S. Min**. "Risk-sensitive Policy Optimization via Predictive CVaR Policy Gradient." Proceedings of the 41st International Conference on Machine Learning (*ICML*), PMLR 235:24354-24369, 2024
 
 - **S. Min**, C. Maglaras, C. C. Moallemi. "Cross-sectional Variation of Intraday Liquidity, Cross-Impact and their Effect on Portfolio Execution." *Operations Research* 70(2):830–846, March 2022
 
