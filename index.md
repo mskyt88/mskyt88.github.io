@@ -6,7 +6,7 @@ layout: homepage
 
 I am an Assistant Professor at Seoul National University (SNU) Business School, specializing in Operations Management. I am very interested in **sequential decision-making and learning algorithms** for modern business applications, with a particular preference on dynamic programming approaches with Bayesian perspectives (e.g., Thompson sampling).
 
-I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D. in Business from Columbia University. After completing my Ph.D., I began my academic career as an Assistant Professor in the Industrial and Systems Engineering Department at KAIST before recently joining the Operations Management group at SNU Business School. Prior to academia, I spent over 6+ years as a quant developer in the financial industry. At the intersection of engineering and business, I am passionate about designing algorithms that perform effectively in practice while uncovering the managerial insights that drive algorithmic innovations.
+I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D. in Business from Columbia University. After completing my Ph.D., I began my academic career as an Assistant Professor in the Industrial and Systems Engineering Department at KAIST before recently joining the Operations Management group at SNU Business School. Prior to academia, I spent over 6 years as a quant developer in the financial industry. At the intersection of engineering and business, I am passionate about designing algorithms that perform effectively in practice while uncovering the managerial insights that drive algorithmic innovations.
 
 
 
