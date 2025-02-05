@@ -25,7 +25,7 @@ I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D.
 
 - **S. Min**, C. Maglaras, C. C. Moallemi. "Cross-sectional Variation of Intraday Liquidity, Cross-Impact and their Effect on Portfolio Execution." *Operations Research* 70(2):830–846, March 2022
 
-- **S. Min**, C. Maglaras, C. C. Moallemi. "Risk-sensitive Optimal Execution via a Conditional Value-at-Risk Objective." *Management Science*, major revision. Initial version: 2022. 2021 INFORMS Section on Finance Best Student Paper Competition Finalist
+- **S. Min**, C. Maglaras, C. C. Moallemi. "Risk-sensitive Optimal Execution via a Conditional Value-at-Risk Objective." Major revision at *Management Science*. Initial version: 2022. 2021 INFORMS Section on Finance Best Student Paper Competition Finalist
 
 - **S. Min**, C. C. Moallemi, D. J. Russo. "Policy Gradient Optimization of Thompson Sampling Policies." Submitted to *INFORMS Journal on Computing*. Initial version: 2020
 
