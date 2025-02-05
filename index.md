@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Assistant Professor at Seoul National University (SNU) Business School. I am very interested in **sequential decision-making and learning algorithms** for modern business applications, with a particular preference on dynamic programming approaches and Bayesian perspectives (e.g., Thompson sampling).
+I am an Assistant Professor at Seoul National University (SNU) Business School, specializing in Operations Management. I am very interested in **sequential decision-making and learning algorithms** for modern business applications, with a particular preference on dynamic programming approaches with Bayesian perspectives (e.g., Thompson sampling).
 
 I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D. in Business from Columbia University. After completing my Ph.D., I began my academic career as an Assistant Professor in the Industrial and Systems Engineering Department at KAIST before recently joining the Operations Management group at SNU Business School. Prior to academia, I spent over 6+ years as a quant developer in the financial industry. At the intersection of engineering and business, I am passionate about designing algorithms that perform effectively in practice while uncovering the managerial insights that drive algorithmic innovations.
 
@@ -21,13 +21,13 @@ I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D.
 - Y. Kanoria, **S. Min**, P. Qian. "The Competition for Partners in Matching Markets." *Management Science*, published online in Articles in Advance, 2024
   - Preliminary version: Y. Kanoria, S. Min, P. Qian. "In Which Matching Markets does the Short Side Enjoy an Advantage?" *Proceedings of the Thirty-Second Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)*, pages 1374–1386, March 2021
 
-- J. Kim, S. Min. "Risk-sensitive Policy Optimization via Predictive CVaR Policy Gradient." *Proceedings of the 41st International Conference on Machine Learning (ICML)*, PMLR 235:24354-24369, 2024
+- J. Kim, **S. Min**. "Risk-sensitive Policy Optimization via Predictive CVaR Policy Gradient." *Proceedings of the 41st International Conference on Machine Learning (ICML)*, PMLR 235:24354-24369, 2024
 
-- S. Min, C. Maglaras, C. C. Moallemi. "Cross-sectional Variation of Intraday Liquidity, Cross-Impact and their Effect on Portfolio Execution." *Operations Research* 70(2):830–846, March 2022
+- **S. Min**, C. Maglaras, C. C. Moallemi. "Cross-sectional Variation of Intraday Liquidity, Cross-Impact and their Effect on Portfolio Execution." *Operations Research* 70(2):830–846, March 2022
 
-- S. Min, C. Maglaras, C. C. Moallemi. "Risk-sensitive Optimal Execution via a Conditional Value-at-Risk Objective." *Management Science*, major revision. Initial version: 2022. 2021 INFORMS Section on Finance Best Student Paper Competition Finalist
+- **S. Min**, C. Maglaras, C. C. Moallemi. "Risk-sensitive Optimal Execution via a Conditional Value-at-Risk Objective." *Management Science*, major revision. Initial version: 2022. 2021 INFORMS Section on Finance Best Student Paper Competition Finalist
 
-- S. Min, C. C. Moallemi, D. J. Russo. "Policy Gradient Optimization of Thompson Sampling Policies." Submitted to *INFORMS Journal on Computing*. Initial version: 2020
+- **S. Min**, C. C. Moallemi, D. J. Russo. "Policy Gradient Optimization of Thompson Sampling Policies." Submitted to *INFORMS Journal on Computing*. Initial version: 2020
 
 
 ## Work Experience
