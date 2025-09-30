@@ -12,6 +12,8 @@ I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D.
 
 ## Papers
 
+- S. Choi, C. Kwon, **S. Min**. "Dynamic Pricing of an Expiring Item under Strategic Buyers with Stochastic Arrival.", Submitted. Initial version: 2025
+
 - **S. Min**, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." Major revision at *Operations Research*. Initial version: July 2023
   - Preliminary version: S. Min, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." Proceedings of the 40th International Conference on Machine Learning (*ICML*), PMLR 202:24831-24849, 2023
 
