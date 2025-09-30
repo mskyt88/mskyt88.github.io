@@ -23,9 +23,9 @@ I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D.
 - Y. Kanoria, **S. Min**, P. Qian. <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.00064">"The Competition for Partners in Matching Markets."</a> *Management Science* 71(4):5230–5250, 2025
   - Preliminary version: Y. Kanoria, S. Min, P. Qian. "In Which Matching Markets does the Short Side Enjoy an Advantage?" Proceedings of the Thirty-Second Annual ACM-SIAM Symposium on Discrete Algorithms (*SODA*), pages 1374–1386, March 2021
 
-- J. Kim, **S. Min**. "Risk-sensitive Policy Optimization via Predictive CVaR Policy Gradient." Proceedings of the 41st International Conference on Machine Learning (*ICML*), PMLR 235:24354-24369, 2024
+- J. Kim, **S. Min**. <a href="https://proceedings.mlr.press/v235/kim24x.html">"Risk-sensitive Policy Optimization via Predictive CVaR Policy Gradient."</a> Proceedings of the 41st International Conference on Machine Learning (*ICML*), PMLR 235:24354-24369, 2024
 
-- **S. Min**, C. Maglaras, C. C. Moallemi. "Cross-sectional Variation of Intraday Liquidity, Cross-Impact and their Effect on Portfolio Execution." *Operations Research* 70(2):830–846, March 2022
+- **S. Min**, C. Maglaras, C. C. Moallemi. <a href="https://pubsonline.informs.org/doi/pdf/10.1287/opre.2021.2201">"Cross-sectional Variation of Intraday Liquidity, Cross-Impact and their Effect on Portfolio Execution."</a> *Operations Research* 70(2):830–846, March 2022
 
 - **S. Min**, C. Maglaras, C. C. Moallemi. "Risk-sensitive Optimal Execution via a Conditional Value-at-Risk Objective." Major revision at *Management Science*. Initial version: 2022. 2021 INFORMS Section on Finance Best Student Paper Competition Finalist
 
