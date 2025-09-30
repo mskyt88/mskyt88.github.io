@@ -14,13 +14,13 @@ I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D.
 
 - S. Choi, C. Kwon, **S. Min**. <a href="https://arxiv.org/abs/2509.24720">"Dynamic Pricing of an Expiring Item under Strategic Buyers with Stochastic Arrival."</a>, Submitted. Initial version: 2025
 
-- **S. Min**, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." Major revision at *Operations Research*. Initial version: July 2023
+- **S. Min**, D. J. Russo. <a href="https://arxiv.org/abs/2302.04452">"An Information-Theoretic Analysis of Nonstationary Bandit Learning."</a> Major revision at *Operations Research*. Initial version: July 2023
   - Preliminary version: S. Min, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." Proceedings of the 40th International Conference on Machine Learning (*ICML*), PMLR 202:24831-24849, 2023
 
-- **S. Min**, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." *Management Science*  71(3):1865–1888, 2025
+- **S. Min**, C. Maglaras, C. C. Moallemi. <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2020.01396">"Thompson Sampling with Information Relaxation Penalties."</a> *Management Science*  71(3):1865–1888, 2025
   - Preliminary version: S. Min, C. Maglaras, C. C. Moallemi. "Thompson Sampling with Information Relaxation Penalties." In Advances in Neural Information Processing Systems 32 (*NeurIPS*), pages 3549–3558, 2019
 
-- Y. Kanoria, **S. Min**, P. Qian. "The Competition for Partners in Matching Markets." *Management Science* 71(4):5230–5250, 2025
+- Y. Kanoria, **S. Min**, P. Qian. <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.00064">"The Competition for Partners in Matching Markets."</a> *Management Science* 71(4):5230–5250, 2025
   - Preliminary version: Y. Kanoria, S. Min, P. Qian. "In Which Matching Markets does the Short Side Enjoy an Advantage?" Proceedings of the Thirty-Second Annual ACM-SIAM Symposium on Discrete Algorithms (*SODA*), pages 1374–1386, March 2021
 
 - J. Kim, **S. Min**. "Risk-sensitive Policy Optimization via Predictive CVaR Policy Gradient." Proceedings of the 41st International Conference on Machine Learning (*ICML*), PMLR 235:24354-24369, 2024
