@@ -12,6 +12,8 @@ I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D.
 
 ## Papers
 
+- S. Kim, D. Ahn, **S. Min**. <a href="https://arxiv.org/abs/2509.24720">"On the Optimality of Tracking Fisher Information in Adaptive Testing with Stochastic Binary Responses."</a>, Submitted. Initial version: 2025
+
 - S. Choi, C. Kwon, **S. Min**. <a href="https://arxiv.org/abs/2509.24720">"Dynamic Pricing of an Expiring Item under Strategic Buyers with Stochastic Arrival."</a>, Submitted. Initial version: 2025
 
 - **S. Min**, D. J. Russo. <a href="https://arxiv.org/abs/2302.04452">"An Information-Theoretic Analysis of Nonstationary Bandit Learning."</a> Major revision at *Operations Research*. Initial version: July 2023
