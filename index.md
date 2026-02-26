@@ -15,7 +15,7 @@ I earned my undergraduate degree in Electrical Engineering from SNU and my Ph.D.
 - **S. Min**, D. J. Russo. <a href="https://arxiv.org/abs/2302.04452">"An Information-Theoretic Analysis of Nonstationary Bandit Learning."</a> Minor revision at *Operations Research*. Initial version: July 2023
   - Preliminary version: S. Min, D. J. Russo. "An Information-Theoretic Analysis of Nonstationary Bandit Learning." Proceedings of the 40th International Conference on Machine Learning (*ICML*), PMLR 202:24831-24849, 2023
 
-- J. Kim, **S. Min**. Predictive CVaR Q-Learning, Accepted at ICRL 2026.
+- J. Kim, **S. Min**. Predictive CVaR Q-Learning, Accepted at ICLR 2026.
 
 - S. Kim, D. Ahn, **S. Min**. <a href="https://arxiv.org/abs/2510.07862">"On the Optimality of Tracking Fisher Information in Adaptive Testing with Stochastic Binary Responses."</a>, Submitted. Initial version: 2025
 
